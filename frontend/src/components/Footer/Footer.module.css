@@ -1,0 +1,18 @@
+.footer {
+  background: #e3e4e0;
+  border-top: 1px solid var(--border);
+  padding: 16px 20px;
+  text-align: center;
+  margin-top: auto;
+}
+
+.name {
+  font-size: 12px;
+  color: var(--gray-400);
+  font-weight: 500;
+}
+
+.name span {
+  font-weight: 600;
+  color: var(--gray-600);
+}
